@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+@import url(https://fonts.googleapis.com/css2?family=Romanesco&display=swap);
+
+/* TITULOS */
+
+.t-menu {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: black;
+}
+
+.tb-menu {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.t-normal {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+.t-placeholder {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #9e9a9a;
+}
+.t-2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+.tb-2{
+
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  color: #fff;
+}
+.t-miniatura {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.t-romanesco {
+  font-family: "Romanesco", cursive;
+  font-size: 96px;
+}
+.bg-1{
+    background-color: #AEA656;
+}
+.bg-2{
+    background-color: #384001;
+}
+.bg-3{
+    background-color: #F2F6F6;
+}
+.pl-70{
+  padding-left: 70px;
+} 

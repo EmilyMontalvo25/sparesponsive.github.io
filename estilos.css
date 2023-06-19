@@ -1,0 +1,102 @@
+#menu li a {
+  padding-left: 0;
+  padding-right: 25px;
+}
+
+.navbar-nav li a:hover {
+  color: #ff0;
+}
+
+.fondo {
+  background-image: url(images/main.png);
+  background-size: cover;
+  height: 100vh;
+}
+
+.barra input {
+  height: 60px;
+  width: 300px;
+  border: none;
+  border-radius: 35px;
+}
+
+.barra {
+  height: 100px;
+  text-align: center;
+}
+input::placeholder {
+  color: #9e9a9a;
+  padding-left: 15px;
+}
+.descripcion {
+  height: 50px;
+  width: 350px;
+}
+
+.servicio {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.titulo {
+  border-radius: 15px 15px 0px 0px;
+  text-align: center;
+}
+
+.socio {
+  text-align: center;
+}
+
+.servicio a:hover {
+  background-color: #384001;
+  color: #fff;
+}
+
+.beneficio {
+  margin-top: 70px;
+  margin-bottom:20px;
+  width: 350px;
+  height: 525px;
+  text-align: center;
+}
+
+.imagen {
+  position: relative;
+  left: 50px;
+  width: 233px;
+  height: 233px;
+  border: 12px solid #384001;
+}
+
+.tipoBnf {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.beneficio a {
+  border-radius: 35px;
+  text-decoration: none;
+  padding: 20px 80px;
+}
+
+.beneficio a:hover {
+  background-color: #384001;
+}
+.lista {
+  height: 80px;
+}
+
+.lista ul {
+  position: absolute;
+  left: 90px;
+  top: 25px;
+}
+
+.lista li {
+  text-align: left;
+  padding-bottom: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
